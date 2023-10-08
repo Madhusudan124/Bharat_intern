@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+.container {
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  padding: 15px;
+  border: 5px solid #2e0101;
+  background-color: #a9a6cf;
+  /* text-align: center; */
+}
+h1{
+ color: rgb(116, 3, 22);
+}
+h1 p{
+  font-weight: bold;
+}
+
+input {
+  width: 150px;
+}
+.output {
+  font-size: 2000px;
+}
+.convert-btn {
+  display: block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #fc2504;
+  border: none;
+  color: #e6dbdb;
+  cursor: pointer;
+}
